@@ -1,6 +1,5 @@
 ## Oi, sou o Nathan Araújo
-- 👀 I’m interested in learn about HTML,CSS and JavaSCript. Heading into full stack development.
-- 🌱 I’m currently learning HTML,JavaScript and Css
+
 
 <div align="center">
   <a href="https://github.com/NathanFreitass">

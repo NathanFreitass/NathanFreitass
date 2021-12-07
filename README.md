@@ -1,4 +1,5 @@
-## Oi, sou o Nathan Araújo
+## Hi, i'm Nathan. 
+ Front End Devevolper
 
 
 <div align="center">
